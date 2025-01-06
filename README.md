@@ -11,3 +11,7 @@ the overall score for each player. The final results are presented in both textu
 formats, providing users with a comprehensive overview of the game.
 
 ![flow](https://github.com/user-attachments/assets/376d9b79-8a33-4cdb-b9a0-0ab5df8f084c)
+![K2](https://github.com/user-attachments/assets/f0e97b72-d34d-477f-95e2-288a30d3f800)
+![K3](https://github.com/user-attachments/assets/3ee7e72a-c071-4e63-8044-e2abe2dd1e71)
+![K5](https://github.com/user-attachments/assets/03d65b78-87cf-4d58-a2b7-71a9af8e11c8)
+![K4](https://github.com/user-attachments/assets/533b5c8a-5e47-4341-8a25-94bc4d047373)
